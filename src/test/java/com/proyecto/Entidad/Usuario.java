@@ -35,6 +35,12 @@ public class Usuario {
         this.email = email;
     }
 
+    public Usuario(String nombre, String apellido, String email) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.email = email;
+    }
+
     public boolean isId() {
         return Id;
     }
@@ -67,5 +73,4 @@ public class Usuario {
         this.email = email;
     }
 
-    
 }
