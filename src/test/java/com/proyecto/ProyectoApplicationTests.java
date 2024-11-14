@@ -8,7 +8,7 @@ class ProyectoApplicationTests {
 
 	@Test
 	void contextLoads() {
-            JOptionPane showMessageDialog(null, "Hola Mundo");
+            
 	}
 
 }
